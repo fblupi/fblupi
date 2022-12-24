@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm fblupi 
 
-- 👨‍💻 I’m currently working as a Software Engineer at [Nazaríes IT](https://www.nazaries.com). I ❤️ RoR, but I've got experience with other technologies and languages. I previously worked with Computer Graphics too. You can check out [3DCurator](https://github.com/fblupi/3DCurator): a desktop application to visualize volumetric datasets of Polychromed Wood Sculptures.
-- 🔭 I’m currently learning and developing my knowledge on numerous back-end technologies such as Ruby on Rails and I would like to learn about some trending front-end technologies.
-- 📫 How to reach me: You can find me in every social network with the nickname _fblupi_ except on my email: francisco.bolivar.lupianez@gmail.com
+👨🏻‍💻 I'm a **Software Engineer** currently working as Technical Lead in [nazaríes intelligenia](https://nazaries.com) from Granada (Spain).
+
+I enjoy working with **Ruby on Rails**, but I have experience in other languages and technologies. I'm passionate about standards and **good practices**, that's why a framework like Rails suits me perfectly. I'm always trying to improve everything I'm working on and looking for new challenges I can learn with.
